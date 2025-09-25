@@ -66,6 +66,11 @@ PID: 46578 | Job: Data Backup   | Duration: 450s | Status: WARNING ⚠️
 PID: 54321 | Job: File Sync     | Duration: 930s | Status: ERROR ❌
 PID: 67890 | Job: ETL Process   | Duration: 270s | Status: OK ✅
 ```
+📊 Actaul Output
+-----------------------------------------------------------------------
+<img width="693" height="883" alt="image" src="https://github.com/user-attachments/assets/70002091-818d-40bb-b62c-ac260a800e3d" />
+
+
 🔧 Scripts
 -----------------------------------------------------------------------
 Add these to package.json:
