@@ -3,7 +3,8 @@
 A Node.js utility to monitor job execution times from a CSV-style log file.
 It pairs START and END events by PID, calculates durations, and highlights jobs exceeding defined thresholds:
 
-Status	Description
+Description
+-------------------------------------------------------------------------------------------------
 ```
 ✅ OK	Job finished under 5 minutes
 ⚠️ Warning	Job runs longer than 5 minutes
@@ -11,6 +12,7 @@ Status	Description
 ```
 
 📂 Project Structure
+--------------------------------------------------------------------------------------------------
 ```
 project-root/
 ├── logMonitor.js         # Main application logic
